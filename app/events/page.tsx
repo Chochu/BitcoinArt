@@ -17,7 +17,7 @@ export default function EventsPage() {
                 DION WILSON
               </h2>
               <p className="text-gray-700 mb-6">
-                Bitcoin since 2017. Connecting Bitcoiner's with Bitcoiner's. Orange Pill App NYC Group Host, BitcoinWalk NYC Host, Bitcoin W/Coffee Host.
+                Bitcoin since 2017. Connecting Bitcoiner&apos;s with Bitcoiner&apos;s. Orange Pill App NYC Group Host, BitcoinWalk NYC Host, Bitcoin W/Coffee Host.
               </p>
               
               <a

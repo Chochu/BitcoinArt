@@ -22,7 +22,7 @@ export default function AboutPage() {
 
           <h2 className="text-3xl font-bold mt-12 mb-6">Mission</h2>
           <p className="text-lg leading-relaxed mb-8 italic">
-            "In the sovereign spirit of Bitcoin—uncensorable money for uncensorable minds—we ignite a self-sustaining global renaissance in art. Through Bitcoin micro-grants, performance workshops, and visionary live and digital productions, we empower visual artists, playwrights, dancers, and musicians to break free from fiat decay. Every donation fuels direct support to creators, powers world-class exhibitions and residencies, and plants a seed in a permanent Bitcoin reserve—building an eternal endowment for human creativity that no institution or inflation can ever touch."
+            &ldquo;In the sovereign spirit of Bitcoin—uncensorable money for uncensorable minds—we ignite a self-sustaining global renaissance in art. Through Bitcoin micro-grants, performance workshops, and visionary live and digital productions, we empower visual artists, playwrights, dancers, and musicians to break free from fiat decay. Every donation fuels direct support to creators, powers world-class exhibitions and residencies, and plants a seed in a permanent Bitcoin reserve—building an eternal endowment for human creativity that no institution or inflation can ever touch.&rdquo;
           </p>
 
           <h2 className="text-3xl font-bold mt-12 mb-6">Vision</h2>
@@ -43,7 +43,7 @@ export default function AboutPage() {
           </p>
 
           <p className="text-lg leading-relaxed">
-            We don't just teach Bitcoin — we pay you to live it: stack sats, slow down, and create art that outlives empires.
+            We don&apos;t just teach Bitcoin — we pay you to live it: stack sats, slow down, and create art that outlives empires.
           </p>
         </div>
       </div>
